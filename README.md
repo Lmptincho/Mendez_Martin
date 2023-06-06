@@ -4,5 +4,7 @@
 ##   Comision A 
 ### Silicon Misiones - https://siliconmisiones.gob.ar/ 
 ####            Autor: Martin Mendez
+                ![image](https://github.com/Lmptincho/Mendez_Martin/assets/133718278/91aecbf2-3c5b-4656-a2aa-5bd3a199c6d1)
+
  *este repositorio fue creado con fines académicos. Contiene los ejercicios
 resueltos del Módulo 1* 
